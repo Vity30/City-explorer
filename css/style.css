@@ -37,7 +37,7 @@ main {
     margin: 0 auto;
 }
 
-/* Grila pentru carduri cu auto-adaptare (Responsive Grid) */
+/* Grila pentru carduri cu auto-adaptare  (Responsive Grid) */
 .cards {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
