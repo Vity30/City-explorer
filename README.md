@@ -1,3 +1,3 @@
 # City Explorer
 Mini-site de prezentare a unor destinatii turistice, realizat in cadrul disciplinei Tehnologii Web.
-Autor:  Rares Mihai Vitan
+Autor: Rares Mihai Vitan
